@@ -1,0 +1,30 @@
+C:\Ekubo\C#\Edu\ArquivoDiretorio\ArquivoDiretorio\bin\Debug\ArquivoDiretorio.exe.config
+C:\Ekubo\C#\Edu\ArquivoDiretorio\ArquivoDiretorio\bin\Debug\ArquivoDiretorio.exe
+C:\Ekubo\C#\Edu\ArquivoDiretorio\ArquivoDiretorio\bin\Debug\ArquivoDiretorio.pdb
+C:\Ekubo\C#\Edu\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.csprojAssemblyReference.cache
+C:\Ekubo\C#\Edu\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.Form1.resources
+C:\Ekubo\C#\Edu\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.Properties.Resources.resources
+C:\Ekubo\C#\Edu\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.csproj.GenerateResource.cache
+C:\Ekubo\C#\Edu\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.csproj.CoreCompileInputs.cache
+C:\Ekubo\C#\Edu\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.exe
+C:\Ekubo\C#\Edu\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.pdb
+C:\Ekubo\Sistemas C#\ArquivoDiretorio\ArquivoDiretorio\bin\Debug\ArquivoDiretorio.exe.config
+C:\Ekubo\Sistemas C#\ArquivoDiretorio\ArquivoDiretorio\bin\Debug\ArquivoDiretorio.exe
+C:\Ekubo\Sistemas C#\ArquivoDiretorio\ArquivoDiretorio\bin\Debug\ArquivoDiretorio.pdb
+C:\Ekubo\Sistemas C#\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.csprojAssemblyReference.cache
+C:\Ekubo\Sistemas C#\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.Form1.resources
+C:\Ekubo\Sistemas C#\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.Properties.Resources.resources
+C:\Ekubo\Sistemas C#\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.csproj.GenerateResource.cache
+C:\Ekubo\Sistemas C#\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.csproj.CoreCompileInputs.cache
+C:\Ekubo\Sistemas C#\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.exe
+C:\Ekubo\Sistemas C#\ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.pdb
+C:\Ekubo\Sistemas C#\Vonix_ArquivoDiretorio\ArquivoDiretorio\bin\Debug\ArquivoDiretorio.exe.config
+C:\Ekubo\Sistemas C#\Vonix_ArquivoDiretorio\ArquivoDiretorio\bin\Debug\ArquivoDiretorio.exe
+C:\Ekubo\Sistemas C#\Vonix_ArquivoDiretorio\ArquivoDiretorio\bin\Debug\ArquivoDiretorio.pdb
+C:\Ekubo\Sistemas C#\Vonix_ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.csprojAssemblyReference.cache
+C:\Ekubo\Sistemas C#\Vonix_ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.Form1.resources
+C:\Ekubo\Sistemas C#\Vonix_ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.Properties.Resources.resources
+C:\Ekubo\Sistemas C#\Vonix_ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.csproj.GenerateResource.cache
+C:\Ekubo\Sistemas C#\Vonix_ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.csproj.CoreCompileInputs.cache
+C:\Ekubo\Sistemas C#\Vonix_ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.exe
+C:\Ekubo\Sistemas C#\Vonix_ArquivoDiretorio\ArquivoDiretorio\obj\Debug\ArquivoDiretorio.pdb

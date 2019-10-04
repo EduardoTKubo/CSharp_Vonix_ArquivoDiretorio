@@ -1,0 +1,24 @@
+
+	srv_vb01 ( 10.0.32.59 ) / Vonix
+
+
+	tabelas :
+
+	wave
+	wave_dir_lido
+
+
+
+	após o Waldeir copiar as gravações 
+
+	o app vair ler a pasta desejada
+
+	\\172.17.14.3\Gravacoes Vonix\XV\2018\MM
+
+	
+	e gravar em "wave"
+
+	ao final grava a pasta lida em "wave_dir_lido"
+
+
+	a informações serão utilizadas no app Vonix_localiza_ligacao
